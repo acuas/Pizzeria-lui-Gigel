@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/auras/Documents/TutoriatOOP2019/Pizza/Cheesy.h
+Pizza.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Pizza.h
+
+/home/auras/Documents/TutoriatOOP2019/Pizza/Dracula.h
+Pizza.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Pizza.h
+
+/home/auras/Documents/TutoriatOOP2019/Pizza/Pizza.h
+iostream
+-
+
+/home/auras/Documents/TutoriatOOP2019/Pizza/PizzaMargherita.h
+Pizza.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Pizza.h
+
+/home/auras/Documents/TutoriatOOP2019/Pizza/main.cpp
+Pizza.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Pizza.h
+PizzaMargherita.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/PizzaMargherita.h
+Cheesy.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Cheesy.h
+Dracula.h
+/home/auras/Documents/TutoriatOOP2019/Pizza/Dracula.h
+
